@@ -38,3 +38,4 @@ The dashboard enables interactive exploration of key indicators using clear and 
 ## 👤 Author
 **Toibul Sk**  
 GitHub: https://github.com/Toibul
+Screenshot: https://github.com/Toibul/Country-Indicators-PowerBI-Dashboard/blob/main/countries-indicators%20(ss).png
